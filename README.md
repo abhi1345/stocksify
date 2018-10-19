@@ -1,6 +1,6 @@
 # Stocksify
 stock prediction model in Python
 
-web.py for back-end
+web.py, Scikit-Learn for back-end
 
 HTML, CSS for front-end
